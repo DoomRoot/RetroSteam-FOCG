@@ -7,6 +7,20 @@
 - обычный desktop-режим на ПК;
 - Big Picture-режим для портативных Windows-консолей и управления с геймпада.
 
+## Скриншоты
+
+### Первичный запуск и загрузка баз
+
+![Первичный запуск и загрузка баз](docs/screenshots/01_first_start_update_db.png)
+
+### Desktop-режим
+
+![Desktop-режим](docs/screenshots/02_desktop_mode.png)
+
+### Big Picture-режим
+
+![Big Picture-режим](docs/screenshots/03_big_picture_mode.png)
+
 ## Beta-релиз
 
 Текущая версия находится в стадии beta-тестирования.
